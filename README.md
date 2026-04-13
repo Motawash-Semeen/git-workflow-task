@@ -56,3 +56,10 @@
 
 ## 📸 Commit History
 ![Commit History](screenshots/git_commit_image.png)
+
+## 🔀 Pull Request
+![PR Screenshot](screenshots/pr_image01.png)
+
+![PR Screenshot](screenshots/pr_image02.png)
+
+![PR Screenshot](screenshots/pr_image03.png)
