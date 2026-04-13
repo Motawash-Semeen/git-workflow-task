@@ -51,4 +51,8 @@
 
 ## Screenshots
 
-(Add your screenshots here)
+## 📸 Branch List
+![Branch Screenshot](screenshots/branches_image.png)
+
+## 📸 Commit History
+![Commit History](screenshots/git_commit_image.png)
